@@ -1,0 +1,1110 @@
+{
+  "title": "sample_paper_digital",
+  "profile": "jee_main",
+  "source_pdf": "data/samples/sample_paper_digital.pdf",
+  "key_source": "data/samples/sample_paper_key.csv",
+  "pages": [
+    {
+      "index": 0,
+      "width": 595.0,
+      "height": 842.0,
+      "char_count": 1595,
+      "has_text_layer": true,
+      "image_area_ratio": 0.0,
+      "column_count": 2,
+      "blank": false,
+      "route": "text_layer",
+      "render_path": "data/output/sample_paper_digital/pages/page-001.png"
+    },
+    {
+      "index": 1,
+      "width": 595.0,
+      "height": 842.0,
+      "char_count": 703,
+      "has_text_layer": true,
+      "image_area_ratio": 0.0,
+      "column_count": 1,
+      "blank": false,
+      "route": "text_layer",
+      "render_path": "data/output/sample_paper_digital/pages/page-002.png"
+    },
+    {
+      "index": 2,
+      "width": 595.0,
+      "height": 842.0,
+      "char_count": 1337,
+      "has_text_layer": true,
+      "image_area_ratio": 0.0,
+      "column_count": 1,
+      "blank": false,
+      "route": "text_layer",
+      "render_path": "data/output/sample_paper_digital/pages/page-003.png"
+    }
+  ],
+  "passages": [
+    {
+      "id": "p18-19",
+      "text": "Directions for Questions 18 to 19: Read the passage below and answer the questions that follow. A thermodynamic system undergoes a cyclic process consisting of an isothermal expansion at temperature T1, an adiabatic expansion to temperature T2, an isothermal compression at T2, and an adiabatic compression returning it to its initial state. The working substance is one mole of an ideal monatomic gas, and all steps are carried out reversibly.",
+      "image_path": null,
+      "page": 2,
+      "question_numbers": [
+        18,
+        19
+      ]
+    }
+  ],
+  "questions": [
+    {
+      "number": 1,
+      "type": "mcq_single",
+      "section": "Physics",
+      "passage_id": null,
+      "stem_text": "A particle moves along a straight line with velocity $v = 3t^2 - 2t$. The displacement between $t = 0$ and $t = 2$ s is",
+      "options": [
+        {
+          "label": "A",
+          "text": "6 m",
+          "image_path": null
+        },
+        {
+          "label": "B",
+          "text": "4 m",
+          "image_path": null
+        },
+        {
+          "label": "C",
+          "text": "8 m",
+          "image_path": null
+        },
+        {
+          "label": "D",
+          "text": "2 m",
+          "image_path": null
+        }
+      ],
+      "render_mode": "text",
+      "stem_image_path": null,
+      "crop_path": "data/output/sample_paper_digital/crops/q001.png",
+      "marks": 4.0,
+      "negative_marks": 1.0,
+      "topic": null,
+      "chapter": null,
+      "difficulty": "unknown",
+      "correct_values": [
+        "B"
+      ],
+      "numeric_tolerance": null,
+      "solution_text": null,
+      "source_page": 0,
+      "bbox": {
+        "page": 0,
+        "x0": 42.0,
+        "y0": 120.32499694824219,
+        "x1": 276.86395263671875,
+        "y1": 204.6909942626953
+      },
+      "route": "text_layer",
+      "has_figure": false,
+      "confidence": 1.0,
+      "notes": [],
+      "verified": false
+    },
+    {
+      "number": 2,
+      "type": "mcq_single",
+      "section": "Physics",
+      "passage_id": null,
+      "stem_text": "Two resistors of 4 ohm and 6 ohm are connected in parallel across a 12 V supply. The total current drawn from the supply is",
+      "options": [
+        {
+          "label": "A",
+          "text": "2 A",
+          "image_path": null
+        },
+        {
+          "label": "B",
+          "text": "3 A",
+          "image_path": null
+        },
+        {
+          "label": "C",
+          "text": "5 A",
+          "image_path": null
+        },
+        {
+          "label": "D",
+          "text": "6 A",
+          "image_path": null
+        }
+      ],
+      "render_mode": "text",
+      "stem_image_path": null,
+      "crop_path": "data/output/sample_paper_digital/crops/q002.png",
+      "marks": 4.0,
+      "negative_marks": 1.0,
+      "topic": null,
+      "chapter": null,
+      "difficulty": "unknown",
+      "correct_values": [
+        "C"
+      ],
+      "numeric_tolerance": null,
+      "solution_text": null,
+      "source_page": 0,
+      "bbox": {
+        "page": 0,
+        "x0": 42.0,
+        "y0": 210.3249969482422,
+        "x1": 275.0909729003906,
+        "y1": 294.6910095214844
+      },
+      "route": "text_layer",
+      "has_figure": false,
+      "confidence": 1.0,
+      "notes": [],
+      "verified": false
+    },
+    {
+      "number": 3,
+      "type": "mcq_single",
+      "section": "Physics",
+      "passage_id": null,
+      "stem_text": "The dimensional formula of the coefficient of viscosity is",
+      "options": [
+        {
+          "label": "A",
+          "text": "MLT-1",
+          "image_path": null
+        },
+        {
+          "label": "B",
+          "text": "ML-1T-1",
+          "image_path": null
+        },
+        {
+          "label": "C",
+          "text": "ML-1T-2",
+          "image_path": null
+        },
+        {
+          "label": "D",
+          "text": "M L T-2",
+          "image_path": null
+        }
+      ],
+      "render_mode": "text",
+      "stem_image_path": null,
+      "crop_path": "data/output/sample_paper_digital/crops/q003.png",
+      "marks": 4.0,
+      "negative_marks": 1.0,
+      "topic": null,
+      "chapter": null,
+      "difficulty": "unknown",
+      "correct_values": [
+        "B"
+      ],
+      "numeric_tolerance": null,
+      "solution_text": null,
+      "source_page": 0,
+      "bbox": {
+        "page": 0,
+        "x0": 42.0,
+        "y0": 300.32501220703125,
+        "x1": 274.0919494628906,
+        "y1": 360.6910095214844
+      },
+      "route": "text_layer",
+      "has_figure": false,
+      "confidence": 1.0,
+      "notes": [],
+      "verified": false
+    },
+    {
+      "number": 4,
+      "type": "mcq_single",
+      "section": "Physics",
+      "passage_id": null,
+      "stem_text": "A body of mass 2 kg is raised through a height of 5 m. The work done against gravity, taking g as 10 m/s2, is",
+      "options": [
+        {
+          "label": "A",
+          "text": "50 J",
+          "image_path": null
+        },
+        {
+          "label": "B",
+          "text": "100 J",
+          "image_path": null
+        },
+        {
+          "label": "C",
+          "text": "150 J",
+          "image_path": null
+        },
+        {
+          "label": "D",
+          "text": "200 J",
+          "image_path": null
+        }
+      ],
+      "render_mode": "text",
+      "stem_image_path": null,
+      "crop_path": "data/output/sample_paper_digital/crops/q004.png",
+      "marks": 4.0,
+      "negative_marks": 1.0,
+      "topic": null,
+      "chapter": null,
+      "difficulty": "unknown",
+      "correct_values": [
+        "B"
+      ],
+      "numeric_tolerance": null,
+      "solution_text": null,
+      "source_page": 0,
+      "bbox": {
+        "page": 0,
+        "x0": 42.0,
+        "y0": 366.32501220703125,
+        "x1": 267.116943359375,
+        "y1": 438.6910095214844
+      },
+      "route": "text_layer",
+      "has_figure": false,
+      "confidence": 1.0,
+      "notes": [],
+      "verified": false
+    },
+    {
+      "number": 5,
+      "type": "mcq_single",
+      "section": "Physics",
+      "passage_id": null,
+      "stem_text": "Light of wavelength 500 nm falls on a metal of work function 1.5 eV. The maximum kinetic energy of the emitted photoelectron is closest to",
+      "options": [
+        {
+          "label": "A",
+          "text": "0.98 eV",
+          "image_path": null
+        },
+        {
+          "label": "B",
+          "text": "1.24 eV",
+          "image_path": null
+        },
+        {
+          "label": "C",
+          "text": "0.48 eV",
+          "image_path": null
+        },
+        {
+          "label": "D",
+          "text": "2.48 eV",
+          "image_path": null
+        }
+      ],
+      "render_mode": "text",
+      "stem_image_path": null,
+      "crop_path": "data/output/sample_paper_digital/crops/q005.png",
+      "marks": 4.0,
+      "negative_marks": 1.0,
+      "topic": null,
+      "chapter": null,
+      "difficulty": "unknown",
+      "correct_values": [
+        "A"
+      ],
+      "numeric_tolerance": null,
+      "solution_text": null,
+      "source_page": 0,
+      "bbox": {
+        "page": 0,
+        "x0": 42.0,
+        "y0": 444.32501220703125,
+        "x1": 279.1049499511719,
+        "y1": 528.6909790039062
+      },
+      "route": "text_layer",
+      "has_figure": false,
+      "confidence": 1.0,
+      "notes": [],
+      "verified": false
+    },
+    {
+      "number": 6,
+      "type": "mcq_single",
+      "section": "Physics",
+      "passage_id": null,
+      "stem_text": "In the circuit shown in the figure, all resistors are identical and equal to R. The equivalent resistance between the terminals marked P and Q is P Q",
+      "options": [
+        {
+          "label": "A",
+          "text": "R/2",
+          "image_path": null
+        },
+        {
+          "label": "B",
+          "text": "2R/3",
+          "image_path": null
+        },
+        {
+          "label": "C",
+          "text": "3R/2",
+          "image_path": null
+        },
+        {
+          "label": "D",
+          "text": "R",
+          "image_path": null
+        }
+      ],
+      "render_mode": "image",
+      "stem_image_path": "data/output/sample_paper_digital/crops/q006.png",
+      "crop_path": "data/output/sample_paper_digital/crops/q006.png",
+      "marks": 4.0,
+      "negative_marks": 1.0,
+      "topic": null,
+      "chapter": null,
+      "difficulty": "unknown",
+      "correct_values": [
+        "B"
+      ],
+      "numeric_tolerance": null,
+      "solution_text": null,
+      "source_page": 0,
+      "bbox": {
+        "page": 0,
+        "x0": 38.0,
+        "y0": 534.3250122070312,
+        "x1": 280.09490966796875,
+        "y1": 696.6909790039062
+      },
+      "route": "text_layer",
+      "has_figure": true,
+      "confidence": 1.0,
+      "notes": [],
+      "verified": false
+    },
+    {
+      "number": 7,
+      "type": "mcq_single",
+      "section": "Physics",
+      "passage_id": null,
+      "stem_text": "The graph shown depicts the variation of displacement with time for a particle. The velocity of the particle in the interval marked is x t",
+      "options": [
+        {
+          "label": "A",
+          "text": "zero",
+          "image_path": null
+        },
+        {
+          "label": "B",
+          "text": "constant and positive",
+          "image_path": null
+        },
+        {
+          "label": "C",
+          "text": "constant and negative",
+          "image_path": null
+        },
+        {
+          "label": "D",
+          "text": "increasing",
+          "image_path": null
+        }
+      ],
+      "render_mode": "image",
+      "stem_image_path": "data/output/sample_paper_digital/crops/q007.png",
+      "crop_path": "data/output/sample_paper_digital/crops/q007.png",
+      "marks": 4.0,
+      "negative_marks": 1.0,
+      "topic": null,
+      "chapter": null,
+      "difficulty": "unknown",
+      "correct_values": [
+        "B"
+      ],
+      "numeric_tolerance": null,
+      "solution_text": null,
+      "source_page": 0,
+      "bbox": {
+        "page": 0,
+        "x0": 310.5,
+        "y0": 80.32499694824219,
+        "x1": 552.8199462890625,
+        "y1": 288.3919982910156
+      },
+      "route": "text_layer",
+      "has_figure": true,
+      "confidence": 1.0,
+      "notes": [],
+      "verified": false
+    },
+    {
+      "number": 8,
+      "type": "numerical",
+      "section": "Physics",
+      "passage_id": null,
+      "stem_text": "A car accelerates uniformly from rest to 20 m/s in 8 s. Its acceleration in m/s2 is",
+      "options": [],
+      "render_mode": "text",
+      "stem_image_path": null,
+      "crop_path": "data/output/sample_paper_digital/crops/q008.png",
+      "marks": 4.0,
+      "negative_marks": 1.0,
+      "topic": null,
+      "chapter": null,
+      "difficulty": "unknown",
+      "correct_values": [
+        "2.5"
+      ],
+      "numeric_tolerance": null,
+      "solution_text": null,
+      "source_page": 0,
+      "bbox": {
+        "page": 0,
+        "x0": 310.5,
+        "y0": 292.32501220703125,
+        "x1": 545.0853271484375,
+        "y1": 316.6910095214844
+      },
+      "route": "text_layer",
+      "has_figure": false,
+      "confidence": 1.0,
+      "notes": [],
+      "verified": false
+    },
+    {
+      "number": 9,
+      "type": "mcq_single",
+      "section": "Chemistry",
+      "passage_id": null,
+      "stem_text": "The number of sigma bonds present in a molecule of ethyne is",
+      "options": [
+        {
+          "label": "A",
+          "text": "2",
+          "image_path": null
+        },
+        {
+          "label": "B",
+          "text": "3",
+          "image_path": null
+        },
+        {
+          "label": "C",
+          "text": "4",
+          "image_path": null
+        },
+        {
+          "label": "D",
+          "text": "5",
+          "image_path": null
+        }
+      ],
+      "render_mode": "text",
+      "stem_image_path": null,
+      "crop_path": "data/output/sample_paper_digital/crops/q009.png",
+      "marks": 4.0,
+      "negative_marks": 1.0,
+      "topic": null,
+      "chapter": null,
+      "difficulty": "unknown",
+      "correct_values": [
+        "B"
+      ],
+      "numeric_tolerance": null,
+      "solution_text": null,
+      "source_page": 1,
+      "bbox": {
+        "page": 1,
+        "x0": 42.0,
+        "y0": 108.32499694824219,
+        "x1": 262.10394287109375,
+        "y1": 180.6909942626953
+      },
+      "route": "text_layer",
+      "has_figure": false,
+      "confidence": 1.0,
+      "notes": [],
+      "verified": false
+    },
+    {
+      "number": 10,
+      "type": "mcq_single",
+      "section": "Chemistry",
+      "passage_id": null,
+      "stem_text": "Which of the following has the highest first ionisation enthalpy?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Boron",
+          "image_path": null
+        },
+        {
+          "label": "B",
+          "text": "Carbon",
+          "image_path": null
+        },
+        {
+          "label": "C",
+          "text": "Nitrogen",
+          "image_path": null
+        },
+        {
+          "label": "D",
+          "text": "Oxygen",
+          "image_path": null
+        }
+      ],
+      "render_mode": "text",
+      "stem_image_path": null,
+      "crop_path": "data/output/sample_paper_digital/crops/q010.png",
+      "marks": 4.0,
+      "negative_marks": 1.0,
+      "topic": null,
+      "chapter": null,
+      "difficulty": "unknown",
+      "correct_values": [
+        "C"
+      ],
+      "numeric_tolerance": null,
+      "solution_text": null,
+      "source_page": 1,
+      "bbox": {
+        "page": 1,
+        "x0": 42.0,
+        "y0": 186.3249969482422,
+        "x1": 265.6049499511719,
+        "y1": 258.6910095214844
+      },
+      "route": "text_layer",
+      "has_figure": false,
+      "confidence": 1.0,
+      "notes": [],
+      "verified": false
+    },
+    {
+      "number": 11,
+      "type": "mcq_single",
+      "section": "Chemistry",
+      "passage_id": null,
+      "stem_text": "The oxidation state of chromium in the dichromate ion is",
+      "options": [
+        {
+          "label": "A",
+          "text": "+3",
+          "image_path": null
+        },
+        {
+          "label": "B",
+          "text": "+5",
+          "image_path": null
+        },
+        {
+          "label": "C",
+          "text": "+6",
+          "image_path": null
+        },
+        {
+          "label": "D",
+          "text": "+7",
+          "image_path": null
+        }
+      ],
+      "render_mode": "text",
+      "stem_image_path": null,
+      "crop_path": "data/output/sample_paper_digital/crops/q011.png",
+      "marks": 4.0,
+      "negative_marks": 1.0,
+      "topic": null,
+      "chapter": null,
+      "difficulty": "unknown",
+      "correct_values": [
+        "C"
+      ],
+      "numeric_tolerance": null,
+      "solution_text": null,
+      "source_page": 1,
+      "bbox": {
+        "page": 1,
+        "x0": 42.0,
+        "y0": 264.32501220703125,
+        "x1": 280.1039123535156,
+        "y1": 324.6910095214844
+      },
+      "route": "text_layer",
+      "has_figure": false,
+      "confidence": 1.0,
+      "notes": [],
+      "verified": false
+    },
+    {
+      "number": 12,
+      "type": "mcq_single",
+      "section": "Chemistry",
+      "passage_id": null,
+      "stem_text": "A buffer solution is prepared by mixing equal volumes of 0.1 M acetic acid and 0.1 M sodium acetate. Given pKa is 4.76, the pH of the solution is",
+      "options": [
+        {
+          "label": "A",
+          "text": "3.76",
+          "image_path": null
+        },
+        {
+          "label": "B",
+          "text": "4.76",
+          "image_path": null
+        },
+        {
+          "label": "C",
+          "text": "5.76",
+          "image_path": null
+        },
+        {
+          "label": "D",
+          "text": "7.00",
+          "image_path": null
+        }
+      ],
+      "render_mode": "text",
+      "stem_image_path": null,
+      "crop_path": "data/output/sample_paper_digital/crops/q012.png",
+      "marks": 4.0,
+      "negative_marks": 1.0,
+      "topic": null,
+      "chapter": null,
+      "difficulty": "unknown",
+      "correct_values": [
+        "B"
+      ],
+      "numeric_tolerance": null,
+      "solution_text": null,
+      "source_page": 1,
+      "bbox": {
+        "page": 1,
+        "x0": 42.0,
+        "y0": 330.32501220703125,
+        "x1": 280.60797119140625,
+        "y1": 432.3919982910156
+      },
+      "route": "text_layer",
+      "has_figure": false,
+      "confidence": 1.0,
+      "notes": [],
+      "verified": false
+    },
+    {
+      "number": 13,
+      "type": "numerical",
+      "section": "Chemistry",
+      "passage_id": null,
+      "stem_text": "The pH of a 0.001 M solution of a strong monobasic acid is",
+      "options": [],
+      "render_mode": "text",
+      "stem_image_path": null,
+      "crop_path": "data/output/sample_paper_digital/crops/q013.png",
+      "marks": 4.0,
+      "negative_marks": 1.0,
+      "topic": null,
+      "chapter": null,
+      "difficulty": "unknown",
+      "correct_values": [
+        "3"
+      ],
+      "numeric_tolerance": null,
+      "solution_text": null,
+      "source_page": 1,
+      "bbox": {
+        "page": 1,
+        "x0": 42.0,
+        "y0": 436.32501220703125,
+        "x1": 282.6239013671875,
+        "y1": 460.6910095214844
+      },
+      "route": "text_layer",
+      "has_figure": false,
+      "confidence": 1.0,
+      "notes": [],
+      "verified": false
+    },
+    {
+      "number": 14,
+      "type": "mcq_single",
+      "section": "Mathematics",
+      "passage_id": null,
+      "stem_text": "If the roots of $x^2 - 5x + k = 0$ are real and distinct, then",
+      "options": [
+        {
+          "label": "A",
+          "text": "k > 25/4",
+          "image_path": null
+        },
+        {
+          "label": "B",
+          "text": "k < 25/4",
+          "image_path": null
+        },
+        {
+          "label": "C",
+          "text": "k = 25/4",
+          "image_path": null
+        },
+        {
+          "label": "D",
+          "text": "k < 0",
+          "image_path": null
+        }
+      ],
+      "render_mode": "text",
+      "stem_image_path": null,
+      "crop_path": "data/output/sample_paper_digital/crops/q014.png",
+      "marks": 4.0,
+      "negative_marks": 1.0,
+      "topic": null,
+      "chapter": null,
+      "difficulty": "unknown",
+      "correct_values": [
+        "B"
+      ],
+      "numeric_tolerance": null,
+      "solution_text": null,
+      "source_page": 2,
+      "bbox": {
+        "page": 2,
+        "x0": 42.0,
+        "y0": 108.32499694824219,
+        "x1": 266.8469543457031,
+        "y1": 180.6909942626953
+      },
+      "route": "text_layer",
+      "has_figure": false,
+      "confidence": 1.0,
+      "notes": [],
+      "verified": false
+    },
+    {
+      "number": 15,
+      "type": "mcq_single",
+      "section": "Mathematics",
+      "passage_id": null,
+      "stem_text": "The value of $\\int_0^1 x e^x dx$ is",
+      "options": [
+        {
+          "label": "A",
+          "text": "1",
+          "image_path": null
+        },
+        {
+          "label": "B",
+          "text": "e - 1",
+          "image_path": null
+        },
+        {
+          "label": "C",
+          "text": "2 - e",
+          "image_path": null
+        },
+        {
+          "label": "D",
+          "text": "e",
+          "image_path": null
+        }
+      ],
+      "render_mode": "text",
+      "stem_image_path": null,
+      "crop_path": "data/output/sample_paper_digital/crops/q015.png",
+      "marks": 4.0,
+      "negative_marks": 1.0,
+      "topic": null,
+      "chapter": null,
+      "difficulty": "unknown",
+      "correct_values": [
+        "A"
+      ],
+      "numeric_tolerance": null,
+      "solution_text": null,
+      "source_page": 2,
+      "bbox": {
+        "page": 2,
+        "x0": 42.0,
+        "y0": 186.3249969482422,
+        "x1": 194.52294921875,
+        "y1": 246.6909942626953
+      },
+      "route": "text_layer",
+      "has_figure": false,
+      "confidence": 1.0,
+      "notes": [],
+      "verified": false
+    },
+    {
+      "number": 16,
+      "type": "mcq_single",
+      "section": "Mathematics",
+      "passage_id": null,
+      "stem_text": "The number of ways of arranging the letters of the word LEVEL is",
+      "options": [
+        {
+          "label": "A",
+          "text": "30",
+          "image_path": null
+        },
+        {
+          "label": "B",
+          "text": "60",
+          "image_path": null
+        },
+        {
+          "label": "C",
+          "text": "120",
+          "image_path": null
+        },
+        {
+          "label": "D",
+          "text": "20",
+          "image_path": null
+        }
+      ],
+      "render_mode": "text",
+      "stem_image_path": null,
+      "crop_path": "data/output/sample_paper_digital/crops/q016.png",
+      "marks": 4.0,
+      "negative_marks": 1.0,
+      "topic": null,
+      "chapter": null,
+      "difficulty": "unknown",
+      "correct_values": [
+        "A"
+      ],
+      "numeric_tolerance": null,
+      "solution_text": null,
+      "source_page": 2,
+      "bbox": {
+        "page": 2,
+        "x0": 42.0,
+        "y0": 252.3249969482422,
+        "x1": 278.11492919921875,
+        "y1": 324.6910095214844
+      },
+      "route": "text_layer",
+      "has_figure": false,
+      "confidence": 1.0,
+      "notes": [],
+      "verified": false
+    },
+    {
+      "number": 17,
+      "type": "mcq_single",
+      "section": "Mathematics",
+      "passage_id": null,
+      "stem_text": "If A is a 3x3 matrix with determinant 4, then the determinant of 2A is",
+      "options": [
+        {
+          "label": "A",
+          "text": "8",
+          "image_path": null
+        },
+        {
+          "label": "B",
+          "text": "16",
+          "image_path": null
+        },
+        {
+          "label": "C",
+          "text": "32",
+          "image_path": null
+        },
+        {
+          "label": "D",
+          "text": "64",
+          "image_path": null
+        }
+      ],
+      "render_mode": "text",
+      "stem_image_path": null,
+      "crop_path": "data/output/sample_paper_digital/crops/q017.png",
+      "marks": 4.0,
+      "negative_marks": 1.0,
+      "topic": null,
+      "chapter": null,
+      "difficulty": "unknown",
+      "correct_values": [
+        "C"
+      ],
+      "numeric_tolerance": null,
+      "solution_text": null,
+      "source_page": 2,
+      "bbox": {
+        "page": 2,
+        "x0": 42.0,
+        "y0": 330.32501220703125,
+        "x1": 244.59893798828125,
+        "y1": 402.6910095214844
+      },
+      "route": "text_layer",
+      "has_figure": false,
+      "confidence": 1.0,
+      "notes": [],
+      "verified": false
+    },
+    {
+      "number": 18,
+      "type": "mcq_single",
+      "section": "Mathematics",
+      "passage_id": "p18-19",
+      "stem_text": "The efficiency of the cycle described above depends on",
+      "options": [
+        {
+          "label": "A",
+          "text": "T1 only",
+          "image_path": null
+        },
+        {
+          "label": "B",
+          "text": "T2 only",
+          "image_path": null
+        },
+        {
+          "label": "C",
+          "text": "both T1 and T2",
+          "image_path": null
+        },
+        {
+          "label": "D",
+          "text": "neither temperature",
+          "image_path": null
+        }
+      ],
+      "render_mode": "text",
+      "stem_image_path": null,
+      "crop_path": "data/output/sample_paper_digital/crops/q018.png",
+      "marks": 4.0,
+      "negative_marks": 1.0,
+      "topic": null,
+      "chapter": null,
+      "difficulty": "unknown",
+      "correct_values": [
+        "C"
+      ],
+      "numeric_tolerance": null,
+      "solution_text": null,
+      "source_page": 2,
+      "bbox": {
+        "page": 2,
+        "x0": 42.0,
+        "y0": 510.32501220703125,
+        "x1": 278.6279602050781,
+        "y1": 570.6909790039062
+      },
+      "route": "text_layer",
+      "has_figure": false,
+      "confidence": 1.0,
+      "notes": [],
+      "verified": false
+    },
+    {
+      "number": 19,
+      "type": "mcq_single",
+      "section": "Mathematics",
+      "passage_id": "p18-19",
+      "stem_text": "During the adiabatic expansion described in the passage, the quantity that remains constant is",
+      "options": [
+        {
+          "label": "A",
+          "text": "temperature",
+          "image_path": null
+        },
+        {
+          "label": "B",
+          "text": "pressure",
+          "image_path": null
+        },
+        {
+          "label": "C",
+          "text": "entropy",
+          "image_path": null
+        },
+        {
+          "label": "D",
+          "text": "volume",
+          "image_path": null
+        }
+      ],
+      "render_mode": "text",
+      "stem_image_path": null,
+      "crop_path": "data/output/sample_paper_digital/crops/q019.png",
+      "marks": 4.0,
+      "negative_marks": 1.0,
+      "topic": null,
+      "chapter": null,
+      "difficulty": "unknown",
+      "correct_values": [
+        "C"
+      ],
+      "numeric_tolerance": null,
+      "solution_text": null,
+      "source_page": 2,
+      "bbox": {
+        "page": 2,
+        "x0": 42.0,
+        "y0": 576.3250122070312,
+        "x1": 246.97596740722656,
+        "y1": 666.3920288085938
+      },
+      "route": "text_layer",
+      "has_figure": false,
+      "confidence": 1.0,
+      "notes": [],
+      "verified": false
+    },
+    {
+      "number": 20,
+      "type": "numerical",
+      "section": "Mathematics",
+      "passage_id": null,
+      "stem_text": "The sum of the first 20 terms of the arithmetic progression 3, 7, 11, ... is",
+      "options": [],
+      "render_mode": "text",
+      "stem_image_path": null,
+      "crop_path": "data/output/sample_paper_digital/crops/q020.png",
+      "marks": 4.0,
+      "negative_marks": 1.0,
+      "topic": null,
+      "chapter": null,
+      "difficulty": "unknown",
+      "correct_values": [
+        "820"
+      ],
+      "numeric_tolerance": null,
+      "solution_text": null,
+      "source_page": 2,
+      "bbox": {
+        "page": 2,
+        "x0": 42.0,
+        "y0": 670.3250122070312,
+        "x1": 238.0829315185547,
+        "y1": 694.6909790039062
+      },
+      "route": "text_layer",
+      "has_figure": false,
+      "confidence": 1.0,
+      "notes": [],
+      "verified": false
+    }
+  ],
+  "sections": [
+    "Physics",
+    "Chemistry",
+    "Mathematics"
+  ],
+  "warnings": [],
+  "stats": {
+    "page_count": 3,
+    "question_count": 20,
+    "questions_with_figures": 2,
+    "questions_from_vision": 0,
+    "questions_missing_key": 0,
+    "low_confidence_count": 0,
+    "mean_confidence": 1.0
+  }
+}

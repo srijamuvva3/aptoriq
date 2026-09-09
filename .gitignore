@@ -1,0 +1,10 @@
+.env
+.venv/
+frontend/node_modules/
+.codex/
+**/__pycache__/
+*.pyc
+.pytest_cache/
+data/.secret_key
+data/*.db-shm
+data/*.db-wal

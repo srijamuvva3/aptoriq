@@ -1,0 +1,11 @@
+fastapi
+uvicorn[standard]
+sqlalchemy
+pymupdf
+httpx
+bcrypt
+itsdangerous
+pydantic
+typer
+rich
+python-dotenv
