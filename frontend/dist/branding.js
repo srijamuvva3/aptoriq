@@ -10,6 +10,9 @@
       if (node.nodeValue?.includes('AptoriQ')) {
         node.nodeValue = node.nodeValue.replaceAll('AptoriQ', NAME)
       }
+      if (node.nodeValue?.includes('Ask VincereArc')) {
+        node.nodeValue = node.nodeValue.replaceAll('Ask VincereArc', 'Ask Curie')
+      }
       if (/Exam intelligence(?: platform)?/i.test(node.nodeValue || '')) {
         node.nodeValue = node.nodeValue.replace(/Exam intelligence(?: platform)?/gi, TAGLINE)
       }
@@ -26,6 +29,9 @@
     const content = `${NAME}: ${TAGLINE}`
     if (description && description.getAttribute('content') !== content) {
       description.setAttribute('content', content)
+    }
+    for (const element of document.querySelectorAll('[aria-label="Ask AptoriQ"], [aria-label="Ask VincereArc"]')) {
+      element.setAttribute('aria-label', 'Ask Curie')
     }
   }
 
